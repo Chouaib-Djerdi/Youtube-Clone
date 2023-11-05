@@ -32,7 +32,7 @@ export const Feed = () => {
         />
         <Typography
           className="copyright"
-          varient="body2"
+          variant="body2"
           sx={{ mt: 1.5, color: "#fff" }}
         >
           Copyright 2023 Dark Void
@@ -40,7 +40,7 @@ export const Feed = () => {
       </Box>
       <Box p={2} sx={{ overflowY: "auto", height: "90vh", flex: 2 }}>
         <Typography
-          varient="h4"
+          variant="h4"
           fontWeight="bold"
           mb={2}
           sx={{ color: "#fff" }}
